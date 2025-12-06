@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Static Badge](https://img.shields.io/badge/Texto?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-braga-carlos-50633a22)
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" /></div>
 
 <div align="center">
