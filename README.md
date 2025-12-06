@@ -32,7 +32,7 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
 
 ### 👤 Contato
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-braga-carlos-50633a22) [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/felipebraga/) [![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-braga-carlos-50633a22) [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/felipebraga/) [![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https://www.sysprep.com.br)](#) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:felipebcarlos@gmail.com)
 
   <br/><br/>
 
