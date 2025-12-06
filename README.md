@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/felipe-braga-carlos-50633a22">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/felipebraga/">
     <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
