@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
 
   # Olá, eu sou o Felipe Braga (Braga)! 👋
@@ -69,9 +70,14 @@ Aqui você pode escrever um breve resumo sobre quem você é, suas tecnologias f
 
 ---
 
+-->
+
 _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 😊
 
 <!-- SUGESTÕES EXTRAS
 Para exibir métricas totais de todos repositórios (ex: total de stars/forks do seu perfil inteiro), use GitHub Readme Stats ou GitHub Actions customizados!
 Badge para total de commits, repositórios, etc, que não existe, foi substituído por ícone chumbo/lettas brancas.
 -->
+
+
+[![Felipe](https://github-readme-stats.vercel.app/api?username=felipebcarlos)](https://github.com/felipebcarlos/github-readme-stats)
