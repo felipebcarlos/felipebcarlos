@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](img.shields.io/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com)
+[![LinkedIn](img.shields.io/badge-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" /></div>
 
