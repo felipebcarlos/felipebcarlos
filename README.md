@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](img.shields.io/badge-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-braga-carlos-50633a22) [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/felipebraga/) [![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com)](#)
-
 <div align="center"><img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" /></div>
 
 <div align="center">
@@ -35,15 +32,7 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
 
 ### 👤 Contato
   
-  <a href="https://www.linkedin.com/in/felipe-braga-carlos-50633a22">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/felipebraga/">
-    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white" alt="Microsoft" />
-  </a>  
-  <a href="#">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-braga-carlos-50633a22) [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/felipebraga/) [![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com)](#)
 
   <br/><br/>
 
