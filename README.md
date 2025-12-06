@@ -33,13 +33,13 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
 ### 👤 Contato
   
   <a href="https://www.linkedin.com/in/felipe-braga-carlos-50633a22">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/felipebraga/">
-    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white" alt="Microsoft"/>
+    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=microsoft&logoColor=white" alt="Microsoft" />
   </a>  
   <a href="#">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status"/>
+    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=plastic&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status" />
   </a>
 
   <br/><br/>
