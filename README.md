@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center><img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" /></center>center
+
 <div align="center">
 
   # Felipe (Braga)
@@ -28,10 +30,8 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
   <img src="https://img.shields.io/badge/Exchange-0078D4?style=plastic&logo=microsoft-exchange&logoColor=white" />
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" />
-
-  <br/><br/>
-
+### 👤 Contato
+  
   <a href="https://www.linkedin.com/in/felipe-braga-carlos-50633a22">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
