@@ -44,6 +44,8 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
 
 _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 😊
 
+![Felipe Carlos Metrics](https://metrics.lecoq.io/felipebcarlos?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=America%2FSao_Paulo)
+
 <!-- SUGESTÕES EXTRAS
 Para exibir métricas totais de todos repositórios (ex: total de stars/forks do seu perfil inteiro), use GitHub Readme Stats ou GitHub Actions customizados!
 Badge para total de commits, repositórios, etc, que não existe, foi substituído por ícone chumbo/lettas brancas.
