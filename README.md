@@ -44,9 +44,9 @@ Sou especialista em Microsoft 365, Exchange e DevOps. Aqui você encontra meus p
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange-0078D4?style=plastic&logo=microsoft-exchange&logoColor=white" />
 </div>
 
 ---
