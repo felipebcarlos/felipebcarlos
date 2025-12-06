@@ -16,42 +16,38 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  # Olá, eu sou o Felipe Carlos!
+  # Olá, eu sou o Felipe Carlos! 👋
 
-  <img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Profile%20views&color=0e75b6&style=flat" alt="felipebcarlos" />
+  <img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" />
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/felipebcarlos">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/users/felipebcarlos/">
-    <img src="https://img.shields.io/badge/-Microsoft%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Profile"/>
+    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
   </a>
-  <a href="https://SEU_SITE.com">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status"/>
+  <a href="#">
+    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://badgen.net/github/followers/felipebcarlos?icon=github&color=blue&label=Seguidores" alt="Seguidores" />
-  <img src="https://img.shields.io/github/following/felipebcarlos?label=Seguindo&style=flat-square&color=blue" alt="Seguindo" />
-  <img src="https://img.shields.io/github/sponsors/felipebcarlos?label=Sponsors&style=flat-square&color=pink" alt="Sponsors" />
-  <img src="https://badgen.net/github/repos/felipebcarlos?icon=github&color=green&label=Reposit%C3%B3rios" alt="Repos" />
+  <img src="https://metrics.lecoq.io/felipebcarlos?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=America%2FSao_Paulo" alt="Felipe Carlos Metrics" width="100%">
 
-  <br/>
+</div>
 
-  <img src="https://img.shields.io/github/repo-size/felipebcarlos/felipebcarlos?label=Tamanho%20do%20Perfil&style=flat-square&color=orange" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/felipebcarlos/felipebcarlos?label=%C3%9Altimo%20Commit&style=flat-square&color=orange" alt="Last Commit" />
+---
 
-  <br/><br/>
+### 🚀 Sobre mim
+Sou especialista em Microsoft 365, Exchange e DevOps. Aqui você encontra meus projetos e laboratórios.
 
-  <p>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipebcarlos&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_br" alt="GitHub Streak" />
-    
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipebcarlos&theme=radical" alt="Top Languages" />
-  </p>
-
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
 </div>
 
 ---
