@@ -36,15 +36,13 @@ Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus pr
 
   <br/><br/>
 
-  <img src="https://metrics.lecoq.io/felipebcarlos?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=America%2FSao_Paulo" alt="Felipe Carlos Metrics" width="100%">
+![Felipe Carlos Metrics](https://metrics.lecoq.io/felipebcarlos?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=America%2FSao_Paulo)
 
 </div>
 
 ---
 
 _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 😊
-
-![Felipe Carlos Metrics](https://metrics.lecoq.io/felipebcarlos?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages_limit=8&config_timezone=America%2FSao_Paulo)
 
 <!-- SUGESTÕES EXTRAS
 Para exibir métricas totais de todos repositórios (ex: total de stars/forks do seu perfil inteiro), use GitHub Readme Stats ou GitHub Actions customizados!
