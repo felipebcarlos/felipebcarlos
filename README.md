@@ -16,18 +16,19 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  # Olá, eu sou o Felipe Carlos! 👋
+  # Felipe Braga (Braga)
 
   <img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" />
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/felipebcarlos">
+  <a href="https://www.linkedin.com/in/felipe-braga-carlos-50633a22">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/felipebcarlos/">
+  <a href="https://learn.microsoft.com/en-us/users/felipebraga/">
     <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
   </a>
+  [![Meu Perfil Microsoft Learn](img.shields.io)](https://learn.microsoft.com/pt-br/users/felipebraga/transcript/76ykqcwmooz36we?tab=credentials-tab)
   <a href="#">
     <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Fgoogle.com" alt="Website Status"/>
   </a>
