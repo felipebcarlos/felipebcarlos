@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <div align="center">
 
   # Olá, eu sou o Felipe Braga (Braga)! 👋
@@ -69,8 +69,6 @@ Aqui você pode escrever um breve resumo sobre quem você é, suas tecnologias f
 </div>
 
 ---
-
--->
 
 _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 😊
 
