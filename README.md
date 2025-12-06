@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  # Felipe Braga (Braga)
+  # Felipe (Braga)
+  ---
+
+### 🚀 Sobre mim
+Sou especialista em Microsoft 365, Exchange e Cloud. Aqui você encontra meus projetos e laboratórios.
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange-0078D4?style=plastic&logo=microsoft-exchange&logoColor=white" />
+</div>
 
   <img src="https://komarev.com/ghpvc/?username=felipebcarlos&label=Views&color=0e75b6&style=flat" alt="felipebcarlos" />
 
@@ -39,24 +50,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Sobre mim
-Sou especialista em Microsoft 365, Exchange e DevOps. Aqui você encontra meus projetos e laboratórios.
-
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exchange-0078D4?style=plastic&logo=microsoft-exchange&logoColor=white" />
-</div>
-
----
-
 _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 😊
 
 <!-- SUGESTÕES EXTRAS
 Para exibir métricas totais de todos repositórios (ex: total de stars/forks do seu perfil inteiro), use GitHub Readme Stats ou GitHub Actions customizados!
 Badge para total de commits, repositórios, etc, que não existe, foi substituído por ícone chumbo/lettas brancas.
 -->
-
-
-[![Felipe](https://github-readme-stats.vercel.app/api?username=felipebcarlos)](https://github.com/felipebcarlos/github-readme-stats)
